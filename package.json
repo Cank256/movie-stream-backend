@@ -1,0 +1,27 @@
+{
+  "name": "movie-stream",
+  "version": "1.0.0",
+  "description": "Movie and TV show streaming App Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cank256/movie-stream-backend.git"
+  },
+  "keywords": [
+    "Movie",
+    "Streaming",
+    "TV",
+    "Shows",
+    "Series",
+    "Video"
+  ],
+  "author": "Caleb Nkunze",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cank256/movie-stream-backend/issues"
+  },
+  "homepage": "https://github.com/Cank256/movie-stream-backend#readme"
+}
